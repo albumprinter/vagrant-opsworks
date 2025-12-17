@@ -8,17 +8,17 @@ fields:
   tier: 4
   isMonorepoProject: false
 labels:
-  - language-shell
-  - bounded-context-aws
-  - compliant-no
-  - domain-customer-platform
-  - type-assets
-  - build-na
-  - owner-sre
   - area-infrastructure
+  - domain-customer-platform
+  - build-na
+  - language-shell
+  - type-assets
+  - compliant-no
+  - bounded-context-aws
   - deploy-na
-  - hosting-local
   - system-ci-cd
+  - owner-sre
+  - hosting-local
   - visibility-public
 links:
   - type: REPOSITORY
