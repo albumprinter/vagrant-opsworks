@@ -8,20 +8,18 @@ fields:
   tier: 4
   isMonorepoProject: false
 labels:
-- area-infrastructure
-- build-na
-- compliant-no
-- deploy-na
-- domain-customer-platform
-- hosting-local
-- language-shell
-- old-domain-ci-cd
-- old-owner-cloud
-- owner-sre
-- system-ci-cd
-- type-assets
-- visibility-public
-- bounded-context-aws
+  - visibility-public
+  - hosting-local
+  - bounded-context-aws
+  - type-assets
+  - owner-sre
+  - build-na
+  - area-infrastructure
+  - deploy-na
+  - domain-customer-platform
+  - system-ci-cd
+  - compliant-no
+  - language-shell
 links:
-- type: REPOSITORY
-  url: https://github.com/albumprinter/vagrant-opsworks
+  - type: REPOSITORY
+    url: https://github.com/albumprinter/vagrant-opsworks
