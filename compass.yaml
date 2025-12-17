@@ -21,6 +21,7 @@ labels:
 - system-ci-cd
 - type-assets
 - visibility-public
+- bounded-context-aws
 links:
 - type: REPOSITORY
   url: https://github.com/albumprinter/vagrant-opsworks
