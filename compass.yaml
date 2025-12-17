@@ -9,16 +9,16 @@ fields:
   isMonorepoProject: false
 labels:
   - area-infrastructure
-  - domain-customer-platform
-  - build-na
-  - language-shell
-  - type-assets
-  - compliant-no
   - bounded-context-aws
+  - build-na
+  - compliant-no
   - deploy-na
-  - system-ci-cd
-  - owner-sre
+  - domain-customer-platform
   - hosting-local
+  - language-shell
+  - owner-sre
+  - system-ci-cd
+  - type-assets
   - visibility-public
 links:
   - type: REPOSITORY
